@@ -5,20 +5,21 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-it is the process of designing, coding and developing softwares to meet needs and create solutions using technology or rather with the use of computers.
-for an example softwares can used to handle large repeative set of processes to cut down on work time and actually make work easy for end-users or process operators
+
+it is the process of analysing, designing, coding and developing softwares to meet needs and create solutions using technical approaches and with the use of computers. For an example softwares can used to handle large repeative set of processes to cut down on work time and actually make work easy for end-users or process operators.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-planning j
-analysis
-designing
-coding
-testing
-deployment
-maintenance
+
+Analysis: research is done on the problem and all necessary information is collected  
+Planning: developer chooses the type of method and approach to work with in the project, the method could either be agile or traditional
+designing: in this process the graphic user interphase of the software is designed and prototypes are created
+Coding: at this stage rules are created and set for the functionality of the software using a programming language like python, java script and the likes 
+Testing: this is the process of checking for errors and debugging the code for anomalies 
+Deployment: this is the final stage whereby the software is rolled out or distributed for use by the end user
+Maintenance: this is the process where future updates, upgrades and changes are made on the software 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall: sequential
