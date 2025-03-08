@@ -28,6 +28,7 @@ agile: it is flexible and easy to make changes while working on the project. You
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 software developers design apps, write code, test and fix bus and collaborate with team
 Quality assurance egineer ensures that the softwares meets the required standard and checks if the software works as intended without any flaws
 
