@@ -10,6 +10,9 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+1.Development methodology defines the overall approach and strategies for the engineering of the software. 
+2.Modeling approach protypes are created at this stage
+3.Process atual coding is done at this stage
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -38,17 +41,22 @@ project manager overs the overall of the project. their resposibility is to assi
 3.Quality assurance egineer ensures that the softwares meets the required standard and checks if the software works as intended without any flaws
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 1.IDEs  enhance developer productivity by providing a comprehensive suite of tools for writing, compiling, debugging, and managing code like vscode
 2.Versions controls offer external storage that is cloud based and allows code to be shared either privately or publicly like git hub 
- 
-
-VCS are for tracking, storing and collaborating with other programmers. github is an example of a VCS
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+1.Balancing Code Quality and Delivery Speed:  Use pair programming or code reviews to ensure quality control
+2.Debugging Complex Systems: Break down large systems into smaller, manageable modules.
+3.Ensuring Scalability: Use horizontal scaling by distributing the load across multiple servers
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+1.Unit Testing : checks if software components are fulfilling functionalities or not. to ensure software components are supported by the infastructure
+2.Integration Testing : checks the data flow from one module to other modules. this ensures that the developed system is able to work with other systems
+3.System Testing : evaluates both functional and non-functional needs for the testing. softwares testing enables programmers to develop a bug free code or system
+4.Acceptance Testing : checks the requirements of a specification or contract are met as per its delivery. to ensure client or customer satisfaction. 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
